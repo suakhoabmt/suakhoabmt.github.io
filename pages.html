@@ -1,0 +1,13 @@
+---
+layout: page
+title: Trang 
+header: Trang
+group: navigation
+---
+{% include JB/setup %}
+
+<h2>Tất cả các trang</h2>
+<ul>
+{% assign pages_list = site.pages %}
+{% include JB/pages_list %}
+</ul>
