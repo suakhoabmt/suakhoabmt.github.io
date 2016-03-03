@@ -1,3 +1,9 @@
+/* media tag */
+@media only screen and (max-width: 480px) {
+    .location {
+      width: 100%;
+    }
+}
 /* Custom container */
 
 /* Replaced with normal container and standard footer */
@@ -15,10 +21,9 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #2C2D34;
 }
 #footer {
-  background-color: #fdcd60;
 }
 
 
@@ -77,3 +82,14 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+/* Call now button */
+.call-now {
+  text-align: center;
+}
+
+/* map location */
+.location {
+  display: inline-block;
+}
+
