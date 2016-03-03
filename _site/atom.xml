@@ -4,13 +4,48 @@
  <title>Tiến Phát</title>
  <link href="http://suakhoabmt.github.io/atom.xml" rel="self"/>
  <link href="http://suakhoabmt.github.io"/>
- <updated>2016-03-03T18:22:15+07:00</updated>
+ <updated>2016-03-04T00:04:12+07:00</updated>
  <id>http://suakhoabmt.github.io</id>
  <author>
    <name>Tiệm khóa Tiến Phát</name>
    <email>trtienlee@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Hệ thống chìa khóa chủ (master key)</title>
+   <link href="http://suakhoabmt.github.io/2016/03/03/he-thong-chia-khoa-chu-master-key"/>
+   <updated>2016-03-03T00:00:00+07:00</updated>
+   <id>http://suakhoabmt.github.io/2016/03/03/he-thong-chia-khoa-chu-master-key</id>
+   <content type="html">
+&lt;p&gt;&lt;em&gt;Hệ thống chìa khóa chủ (Master key)&lt;/em&gt; là hệ thống giúp bạn quản lí nhiều phòng, cả tòa nhà và thậm chí có thể cả hệ thống các tòa nhà với 1 chìa khóa.&lt;/p&gt;
+
+&lt;p&gt;Ví dụ: Tòa nhà của bạn có 5 tầng, mỗi tầng 50 phòng, nghĩa là có 250 phòng với 250 chìa khóa khác nhau. Với hệ thống chìa khóa chủ, bạn có thể có 5 chìa khóa cho mỗi tầng, mỗi chìa khóa có thể mở được một phòng bất kì trên tầng đó. Bạn cũng có thể có 1 chìa khóa chủ, chìa này có thể mở được bất kì phòng nào trong tòa nhà trên. Bạn không phải cầm cả chùm chìa khóa rất bất tiện.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/He-thong-chia-chu-master-key.png&quot; alt=&quot;Hệ thống chìa chủ master key&quot; title=&quot;Hệ thống chìa chủ master key&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tiệm khóa Tiến Phát cung cấp dịch vụ triển khai hệ thống chìa khóa chủ.&lt;/p&gt;
+
+&lt;p&gt;Lưu ý:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hệ thống chìa chủ triển khai trên cùng loại khóa sử dụng cùng một loại chìa khóa.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Các loại khóa có thể triển khai hệ thống chìa chủ thông dụng:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Khóa cửa: Khóa tay nắm tròn và tay nắm gạt (EVERSEF, YALE và một số loại khóa dùng chìa cắt răng)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Khóa treo: YETI, REAL, YALE&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ở trên là một số thông tin sơ lược về dịch vụ làm hệ thống chìa khóa chủ. Nếu có thắc mắc hoặc có nhu cầu tìm hiểu để sử dụng sản phẩm, quý khách vui lòng liên hệ qua đường dây nóng 0905748973 (gặp Tiến)&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Làm gì khi mất hết chìa khóa xe ô tô?</title>
