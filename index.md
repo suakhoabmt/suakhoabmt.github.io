@@ -21,24 +21,38 @@ tagline: Sửa khóa Buôn Ma Thuột
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
   </ol>
  
 <!-- Wrapper for slides -->
 <div class="carousel-inner">
     <div class="item active">
-      <img src="http://placehold.it/1200x315" alt="...">
+      <img src="http://placehold.it/1200x400" alt="...">
       <div class="carousel-caption">
-          <h3>Mở khóa</h3>
+          <h3>Dịch vụ sửa khóa chuyên nghiệp</h3>
       </div>
     </div>
     <div class="item">
-      <img src="http://placehold.it/1200x315" alt="...">
+      <img src="http://placehold.it/1200x400" alt="...">
       <div class="carousel-caption">
           <h3>Làm chìa khóa Ô tô</h3>
       </div>
     </div>
     <div class="item">
-      <img src="http://placehold.it/1200x315" alt="...">
+      <img src="http://placehold.it/1200x400" alt="...">
+      <div class="carousel-caption">
+          <h3>Khóa chống trộm xe máy</h3>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://placehold.it/1200x400" alt="...">
+      <div class="carousel-caption">
+          <h3>Khóa dân dụng, khóa văn phòng công ty</h3>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://placehold.it/1200x400" alt="...">
       <div class="carousel-caption">
           <h3>Mở két sắt</h3>
       </div>
