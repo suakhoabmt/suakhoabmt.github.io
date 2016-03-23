@@ -21,20 +21,6 @@
     <!-- Custom styles -->
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images
-      <link rel="shortcut icon" href="images/favicon.ico">
-      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-    -->
 
     <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
@@ -47,12 +33,8 @@
       <header>
         <div class="container">
           <div class="row">
-            <div id="logo">
-              <a href="{{ HOME_PATH }}">
-                <h1>SỬA KHÓA BUÔN MA THUỘT</h1>
-              </a>    
-            </div>
-            <div>
+            <div class="col-sm-12">
+              <h1 id="logo"><a href="{{ HOME_PATH }}">SỬA KHÓA BUÔN MA THUỘT</a></h1>
               <p>Kinh doanh khóa, chìa khóa và các vật tư ngành khóa.</p>
             </div>
           </div>
@@ -89,7 +71,7 @@
         </div>
       </header>
       
-
+      <!-- main content -->
       <div class="container">
         {{ content }}
       </div>
@@ -99,10 +81,11 @@
     <div id="footer">
       <div class="container">
         <div class="row">
-          <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-            với sự giúp đỡ của <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-            và <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-          </p>
+          <div class="col-sm-12">
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+            với sự giúp đỡ của <span><a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a></span> và <span><a href="http://getbootstrap.com" target="_blank">Bootstrap</a></span>
+            </p>
+          </div>
         </div>
       </div>
     </div>
