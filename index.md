@@ -2,6 +2,7 @@
 layout: page
 title: Tiệm khóa Tiến Phát
 tagline: Sửa khóa Buôn Ma Thuột
+description: Kinh doanh khóa, chìa khóa và các vật tư ngành khóa.
 ---
 {% include JB/setup %}
 
