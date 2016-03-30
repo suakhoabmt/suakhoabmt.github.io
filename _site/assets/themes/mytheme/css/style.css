@@ -93,6 +93,20 @@ h1, h2, h3, h4 {
 
 }
 
-header {
-  background-color: #222;
+#map {
+  background-color: #555;
+
+}
+
+/* image */
+.carousel-inner img {
+  width: 100%;
+}
+
+.navbar {
+  margin: 0;
+}
+
+.navbar-brand {
+  padding: 5px;
 }
