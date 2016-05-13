@@ -110,3 +110,12 @@ h1, h2, h3, h4 {
 .navbar-brand {
   padding: 5px;
 }
+
+/* products */
+ul.products li {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    *display: inline;
+    *zoom: 1;
+}

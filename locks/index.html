@@ -8,11 +8,14 @@ description: Bán khóa
 Tiệm khóa Tiến Phát bán sỉ và lẻ các loại khóa treo, khóa cửa, khóa tủ. Nhận lắp đặt khóa cho công trình, khóa công ty, trường học, khóa văn phòng.
 
 <!-- Hình ảnh giới thiệu sản phẩm -->
-<ul>
+<ul class="products">
 {% for lock in site.data.locks %}
   <li>
-    <img src="http://placehold.it/200x200">
-    <p>{{ lock.name }} -- {{ lock.price}}</p>
+  	<a href="#">
+	    <img src="http://placehold.it/200x200">
+	    <h4>{{ lock.name }}</h4>
+	    <p>{{ lock.price}}</p>
+  	</a>
   </li>
 {% endfor %}
 </ul>
