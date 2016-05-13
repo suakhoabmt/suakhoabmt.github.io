@@ -10,10 +10,13 @@ group: mainmenu
 Tiệm khóa Tiến Phát bán sỉ và lẻ phôi chìa khóa các loại tại địa bàn thành phố Buôn Ma Thuột, tỉnh Dak Lak.
 
 <!-- Hình ảnh giới thiệu sản phẩm -->
-
-
-
-
+<ul>
+{% for key in site.data.keys %}
+  <li>
+    {{ key.name }} -- {{ key.price}}
+  </li>
+{% endfor %}
+</ul>
 
 
 <div class="call-now">

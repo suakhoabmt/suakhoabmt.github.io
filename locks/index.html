@@ -9,9 +9,9 @@ Tiệm khóa Tiến Phát bán sỉ và lẻ các loại khóa treo, khóa cửa
 
 <!-- Hình ảnh giới thiệu sản phẩm -->
 <ul>
-{% for lock in site.data.locks_csv %}
+{% for lock in site.data.locks %}
   <li>
-    {{ lock.name }}
+    {{ lock.name }} -- {{ lock.price}}
   </li>
 {% endfor %}
 </ul>
