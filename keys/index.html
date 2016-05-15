@@ -10,17 +10,47 @@ group: mainmenu
 Tiệm khóa Tiến Phát bán sỉ và lẻ phôi chìa khóa các loại tại địa bàn thành phố Buôn Ma Thuột, tỉnh Dak Lak.
 
 <!-- Hình ảnh giới thiệu sản phẩm -->
-<ul class="products">
-{% for key in site.data.keys %}
-  <li>
-    <a href="#">
-      <img src="http://placehold.it/200x200">
-      <h4>{{ key.name }}</h4>
-      <p>{{ key.price }}<p>
-    </a>
-  </li>
-{% endfor %}
-</ul>
+<div id="demo">
+  <!-- panel -->
+  <div class="jplist-panel">   
+    <!-- pagination control -->
+    <div class="jplist-panel box panel-top">            
+      <!-- search any text in the element -->
+      <div class="text-filter-box">
+        <input data-path="*" type="text" value="" placeholder="Tìm kiếm sản phẩm..." data-control-type="textbox" data-control-name="title-filter" data-control-action="filter">
+      </div>  
+    </div>
+    <div class="clear"></div>
+    <div 
+    class="jplist-pagination" 
+         data-control-type="pagination" 
+         data-control-name="paging" 
+         data-control-action="paging"
+         data-items-per-page="10">
+      </div>  
+    </div>
+    <div class="clear"></div>
+    <!-- HTML data -->   
+   <ul class="list products">
+    {% for key in site.data.keys %}
+
+    <li class="list-item">
+      <a href="#">
+       <img src="http://placehold.it/200x200">
+       <h4 class="name">{{ key.name }}</h4>
+       <p class="price">{{ key.price}}</p>
+     </a>
+   </li>
+
+   {% endfor %}
+  
+   </ul>   
+   <!-- no results found -->
+   <div class="jplist-no-results">
+      <p>No results found</p>
+   </div>
+</div>
+<div class="clear"></div>
 
 
 <div class="call-now">

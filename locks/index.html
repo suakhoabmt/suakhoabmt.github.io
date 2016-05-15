@@ -8,18 +8,47 @@ description: Bán khóa
 Tiệm khóa Tiến Phát bán sỉ và lẻ các loại khóa treo, khóa cửa, khóa tủ. Nhận lắp đặt khóa cho công trình, khóa công ty, trường học, khóa văn phòng.
 
 <!-- Hình ảnh giới thiệu sản phẩm -->
-<ul class="products">
-  {% for lock in site.data.locks %}
-  <li>
-    <a href="#">
-     <img src="http://placehold.it/200x200">
-     <h4>{{ lock.name }}</h4>
-     <p>{{ lock.price}}</p>
-   </a>
- </li>
- {% endfor %}
-</ul>
+<div id="demo">
+  <!-- panel -->
+  <div class="jplist-panel">   
+    <!-- pagination control -->
+    <div class="jplist-panel box panel-top">            
+      <!-- search any text in the element -->
+      <div class="text-filter-box">
+        <input data-path="*" type="text" value="" placeholder="Tìm kiếm sản phẩm..." data-control-type="textbox" data-control-name="title-filter" data-control-action="filter">
+      </div>  
+    </div>
+    <div class="clear"></div>
+    <div 
+    class="jplist-pagination" 
+         data-control-type="pagination" 
+         data-control-name="paging" 
+         data-control-action="paging"
+         data-items-per-page="10">
+      </div>  
+    </div>
+    <div class="clear"></div>
+    <!-- HTML data -->   
+   <ul class="list products">
+    {% for lock in site.data.locks %}
 
+    <li class="list-item">
+      <a href="#">
+       <img src="http://placehold.it/200x200">
+       <h4 class="name">{{ lock.name }}</h4>
+       <p class="price">{{ lock.price}}</p>
+     </a>
+   </li>
+
+   {% endfor %}
+  
+   </ul>   
+   <!-- no results found -->
+   <div class="jplist-no-results">
+      <p>No results found</p>
+   </div>
+</div>
+<div class="clear"></div>
 
 <div class="call-now">
   <h3>Gọi ngay</h3>
