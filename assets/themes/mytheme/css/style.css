@@ -112,10 +112,26 @@ h1, h2, h3, h4 {
 }
 
 /* products */
+.products {
+  margin: 4em 0;
+}
 ul.products li {
     width: 200px;
     display: inline-block;
+    margin: 0 1% 1% 0;
     vertical-align: top;
     *display: inline;
     *zoom: 1;
+}
+
+.name {
+}
+
+.price {
+  color: red;
+  font-size: 1.5em;
+}
+
+.clear {
+  clear: both;
 }
