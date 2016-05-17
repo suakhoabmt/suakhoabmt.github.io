@@ -1,72 +1,74 @@
 ---
 layout: page
-title: Bán sỉ và lẻ phôi chìa khóa
-description: Bán phôi chìa khóa
+title: Chìa khóa
+description: bán sỉ và lẻ phôi chìa khóa các loại tại địa bàn thành phố Buôn Ma Thuột, tỉnh Dak Lak.
 group: mainmenu
 ---
 {% include JB/setup %}
 
-
-Tiệm khóa Tiến Phát bán sỉ và lẻ phôi chìa khóa các loại tại địa bàn thành phố Buôn Ma Thuột, tỉnh Dak Lak.
-
-<!-- Hình ảnh giới thiệu sản phẩm -->
 <div id="demo">
   <!-- panel -->
-  <div class="jplist-panel">   
-    <!-- pagination control -->
-    <div class="jplist-panel box panel-top">            
-      <!-- search any text in the element -->
-      <div class="text-filter-box">
-        <input data-path="*" type="text" value="" placeholder="Tìm kiếm sản phẩm..." data-control-type="textbox" data-control-name="title-filter" data-control-action="filter">
-      </div>  
+  <div class="jplist-panel">
+    <div class="center-block">
+      <ul
+          class="pagination jplist-pagination"
+          data-control-type="boot-pagination"
+          data-control-name="paging"
+          data-control-action="paging"
+          data-range="3"
+          data-mode="google-like"
+          data-items-per-page="12">
+      </ul>
     </div>
-    <div class="clear"></div>
-    <div 
-    class="jplist-pagination" 
-         data-control-type="pagination" 
-         data-control-name="paging" 
-         data-control-action="paging"
-         data-items-per-page="10">
-      </div>  
-    </div>
-    <div class="clear"></div>
-    <!-- HTML data -->   
-    <!-- HTML data -->   
-   <ul class="list products">
-    {% for product in site.data.products %}
+  </div>
+  <!-- HTML data -->
+  <div class="product-box-list">
+    <ul class="list products">
+      {% for product in site.data.products %}
       {% if product.type == 'key' %}
       <li class="list-item product">
         <a href="#" title="{{ product.name }}">
           <img class="product-img" src="http://placehold.it/200x200" alt="{{ product.name }}">
           <h4 class="product-name">{{ product.name }}</h4>
         </a>
-        <span class="price-label">Giá bán: </span><span class="price">{{ product.price}}</span><span class="price-unit">đ</span>    
-     </li>
-     {% endif %}
-   {% endfor %}
-  
-   </ul>   
-   <!-- no results found -->
-   <div class="jplist-no-results">
-      <p>No results found</p>
-   </div>
+        <span class="product-price">{{ product.price }}</span><span class="product-price-unit">đ</span>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  <!-- panel -->
+  <div class="center-block">
+    <div class="jplist-panel">
+      <ul
+          class="pagination pull-left jplist-pagination"
+          data-control-type="boot-pagination"
+          data-control-name="paging"
+          data-control-action="paging"
+          data-range="3"
+          data-mode="google-like"
+          data-items-per-page="12">
+      </ul>
+    </div>
+  </div>
 </div>
 <div class="clear"></div>
-
 
 <div class="call-now">
   <h3>Gọi ngay</h3>
   <div class="call-button">
     <a href="tel:(+84)01224512545">
-      <h1>01224512545</h1> 
+      <h1>01224512545</h1>
     </a>
   </div>
 </div>
 
 <h3>Bản đồ</h3>
 <div class="location">
-<h4>Tiệm khóa Tiến Phát</h4>
-<p><strong>Địa chỉ:</strong> 5 Nguyễn Văn Cừ, TP. Buôn Ma Thuột, Tỉnh Dak Lak</p>
+  <h4>Tiệm khóa Tiến Phát</h4>
+  <p><strong>Địa chỉ:</strong> 5 Nguyễn Văn Cừ, TP. Buôn Ma Thuột, Tỉnh Dak Lak</p>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3892.3182384608685!2d108.06284656893095!3d12.692639994314332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3171f7c4374bdd6f%3A0x89961b2411afda4e!2zVGnhu4dtIEtow7NhIFRp4bq_biBQaMOhdA!5e0!3m2!1svi!2s!4v1456590906784" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3892.3182384608685!2d108.06284656893095!3d12.692639994314332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3171f7c4374bdd6f%3A0x89961b2411afda4e!2zVGnhu4dtIEtow7NhIFRp4bq_biBQaMOhdA!5e0!3m2!1svi!2s!4v1456590906784"
+      width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

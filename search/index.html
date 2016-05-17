@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Khóa
-description: bán sỉ và lẻ các loại khóa treo, khóa cửa, khóa tủ. Nhận lắp đặt khóa cho công trình, khóa công ty, trường học, khóa văn phòng.
-group: mainmenu
+title: Kết quả tìm kiếm cho
+description: Tìm kiếm sản phẩm trên trang sửa khóa Buôn Ma Thuột
 ---
 {% include JB/setup %}
 
@@ -25,7 +24,6 @@ group: mainmenu
   <div class="product-box-list">
     <ul class="list products">
       {% for product in site.data.products %}
-      {% if product.type == 'lock' %}
       <li class="list-item product">
         <a href="#" title="{{ product.name }}">
           <img class="product-img" src="http://placehold.it/200x200" alt="{{ product.name }}">
@@ -33,9 +31,12 @@ group: mainmenu
         </a>
         <span class="product-price">{{ product.price }}</span><span class="product-price-unit">đ</span>
       </li>
-      {% endif %}
       {% endfor %}
     </ul>
+    <!-- no results found -->
+    <div class="jplist-no-results">
+      <p>Không tìm thấy sản phẩm nào tương ứng!</p>
+    </div>
   </div>
   <!-- panel -->
   <div class="center-block">
@@ -51,23 +52,4 @@ group: mainmenu
       </ul>
     </div>
   </div>
-</div>
-<div class="clear"></div>
-
-<div class="call-now">
-  <h3>Gọi ngay</h3>
-  <div class="call-button"><a href="tel:(+84)01224512545">
-    <h1>01224512545</h1>
-  </a>
-  </div>
-</div>
-
-<h3>Bản đồ</h3>
-<div class="location">
-  <h4>Tiệm khóa Tiến Phát</h4>
-  <p><strong>Địa chỉ:</strong> 5 Nguyễn Văn Cừ, TP. Buôn Ma Thuột, Tỉnh Dak Lak</p>
-
-  <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3892.3182384608685!2d108.06284656893095!3d12.692639994314332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3171f7c4374bdd6f%3A0x89961b2411afda4e!2zVGnhu4dtIEtow7NhIFRp4bq_biBQaMOhdA!5e0!3m2!1svi!2s!4v1456590906784"
-      width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

@@ -4,6 +4,7 @@ http://suakhoabmt.github.io/atom.xml
 http://suakhoabmt.github.io/categories
 http://suakhoabmt.github.io/about/
 http://suakhoabmt.github.io/safes/
+http://suakhoabmt.github.io/search/
 http://suakhoabmt.github.io/keys/
 http://suakhoabmt.github.io/locks/
 http://suakhoabmt.github.io/cars/
