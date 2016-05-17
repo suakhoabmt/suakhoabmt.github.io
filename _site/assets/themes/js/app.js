@@ -16,6 +16,7 @@ var getUrlParameter = function getUrlParameter(sParam) {
 $('document').ready(function () {
   var searchQuery = getUrlParameter('search');
   if (searchQuery) {
+    searchQuery = searchQuery.replace(/\+/g, ' ');
     $('#search-form-jplist').val(searchQuery);
     $('#search-box').val(searchQuery);
     $('.search-query').text("'" + searchQuery.toString() + "'");
