@@ -31,15 +31,15 @@ Tiệm khóa Tiến Phát bán sỉ và lẻ các loại khóa treo, khóa cửa
     <!-- HTML data -->   
    <ul class="list products">
     {% for product in site.data.products %}
-    {% if product.type == 'lock' %}
-    <li class="list-item">
-      <a href="#">
-       <img src="http://placehold.it/200x200">
-       <h4 class="name">{{ product.name }}</h4>
-       <p class="price">{{ product.price}}</p>
-     </a>
-   </li>
-   {% endif %}
+      {% if product.type == 'lock' %}
+      <li class="list-item product">
+        <a href="#" title="{{ product.name }}">
+          <img class="product-img" src="http://placehold.it/200x200" alt="{{ product.name }}">
+          <h4 class="product-name">{{ product.name }}</h4>
+        </a>
+        <span class="price-label">Giá bán:</span><span class="price">{{ product.price}}</span><span class="price-unit">đ</span>    
+     </li>
+     {% endif %}
    {% endfor %}
   
    </ul>   
