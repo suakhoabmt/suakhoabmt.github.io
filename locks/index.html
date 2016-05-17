@@ -30,16 +30,16 @@ Tiệm khóa Tiến Phát bán sỉ và lẻ các loại khóa treo, khóa cửa
     <div class="clear"></div>
     <!-- HTML data -->   
    <ul class="list products">
-    {% for lock in site.data.locks %}
-
+    {% for product in site.data.products %}
+    {% if product.type == 'lock' %}
     <li class="list-item">
       <a href="#">
        <img src="http://placehold.it/200x200">
-       <h4 class="name">{{ lock.name }}</h4>
-       <p class="price">{{ lock.price}}</p>
+       <h4 class="name">{{ product.name }}</h4>
+       <p class="price">{{ product.price}}</p>
      </a>
    </li>
-
+   {% endif %}
    {% endfor %}
   
    </ul>   

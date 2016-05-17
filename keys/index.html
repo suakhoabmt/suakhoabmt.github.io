@@ -31,17 +31,18 @@ Tiệm khóa Tiến Phát bán sỉ và lẻ phôi chìa khóa các loại tại
     </div>
     <div class="clear"></div>
     <!-- HTML data -->   
+    <!-- HTML data -->   
    <ul class="list products">
-    {% for key in site.data.keys %}
-
-    <li class="list-item">
-      <a href="#">
-       <img src="http://placehold.it/200x200">
-       <h4 class="name">{{ key.name }}</h4>
-       <p class="price">{{ key.price}}</p>
-     </a>
-   </li>
-
+    {% for product in site.data.products %}
+      {% if product.type == 'key' %}
+      <li class="list-item">
+        <a href="#">
+         <img src="http://placehold.it/200x200">
+         <h4 class="name">{{ product.name }}</h4>
+         <p class="price">{{ product.price}}</p>
+       </a>
+     </li>
+     {% endif %}
    {% endfor %}
   
    </ul>   
