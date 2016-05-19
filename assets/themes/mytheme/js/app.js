@@ -29,28 +29,29 @@ var vietnameseToLatinCharacter = function (string) {
       .replace(/Ỳ|Ý|Ỷ|Ỹ|Ỵ/g, "Y")
       .replace(/đ/g, "d")
       .replace(/Đ/g, "D");
-}
+};
 
 var specialCharacterToBlankSpace = function (string) {
   //TODO: Add more special character to set
   return string
       .replace(/,|.\/|>|<|\?|;|:|'|"|`|~|!|@|#|$|%|^|&|\*|\(|\)|_|-|=|\+|[|]|\\/g, " ");
-}
+};
 
 var removeDuplicateWhiteSpaces = function (string) {
   return string.replace(/ +/g, " ");
-}
+};
 
 $('document').ready(function () {
   var searchQuery = getUrlParameter('search');
   if (searchQuery) {
+    searchQuery = searchQuery.replace(/\+/g, " ");
     $('#search-box').val(searchQuery);
+    $('.search-query').text("'" + searchQuery.toString() + "'");
     searchQuery = vietnameseToLatinCharacter(
         removeDuplicateWhiteSpaces(
             specialCharacterToBlankSpace(searchQuery).trim()));
 
     $('#search-form-jplist').val(searchQuery);
-    $('.search-query').text("'" + searchQuery.toString() + "'");
   }
   $('#demo').jplist({
     itemsBox: '.list'

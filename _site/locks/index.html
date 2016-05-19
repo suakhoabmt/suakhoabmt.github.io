@@ -195,18 +195,139 @@
     
 
 <div id="demo">
-  <!-- panel -->
-  <div class="jplist-panel">
-    <div class="center-block">
-      <ul
-          class="pagination jplist-pagination"
-          data-control-type="boot-pagination"
-          data-control-name="paging"
-          data-control-action="paging"
-          data-range="3"
-          data-mode="google-like"
-          data-items-per-page="12">
-      </ul>
+  <div class="option-box">
+    <div class="sort-box-holder">
+      <!-- panel -->
+      <div class="jplist-panel">
+        <!-- jplist bootstrap sort dropdown control -->
+        <div
+            class="dropdown"
+            data-control-type="boot-sort-drop-down"
+            data-control-name="bootstrap-sort-dropdown-demo"
+            data-control-action="sort"
+            data-datetime-format="{month}/{day}/{year}"> <!-- {year}, {month}, {day}, {hour}, {min}, {sec} -->
+
+          <button
+              class="btn btn-default dropdown-toggle"
+              type="button"
+              id="sort-by-dropdown-btn"
+              data-toggle="dropdown"
+              aria-expanded="true">
+            <span data-type="selected-text">Sort by</span>
+            <span class="caret"></span>
+          </button>
+
+          <ul class="dropdown-menu" role="menu" aria-labelledby="sort by menu">
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".product-name"
+                  data-order="asc"
+                  data-type="text"
+                  data-default="true">Tên A-Z</a>
+            </li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".product-name"
+                  data-order="desc"
+                  data-type="text">Tên Z-A</a>
+            </li>
+
+            <li role="presentation" class="divider"></li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".product-price"
+                  data-order="asc"
+                  data-type="number">Giá &#8593;</a>
+            </li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".product-price"
+                  data-order="desc"
+                  data-type="number">Giá &#8595;</a>
+            </li>
+
+            <li role="presentation" class="divider"></li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".date"
+                  data-order="asc"
+                  data-type="datetime">Mới nhất</a>
+            </li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".date"
+                  data-order="desc"
+                  data-type="datetime">Cũ nhất</a>
+            </li>
+
+            <li role="presentation" class="divider"></li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".date"
+                  data-order="desc"
+                  data-type="datetime">Độ liên quan</a>
+            </li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".date"
+                  data-order="desc"
+                  data-type="datetime">Hàng mới nhập</a>
+            </li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".date"
+                  data-order="asc"
+                  data-type="datetime">Bán chạy nhất</a>
+            </li>
+
+            <li role="presentation">
+              <a
+                  role="menuitem"
+                  tabindex="-1"
+                  href="#"
+                  data-path=".date"
+                  data-order="desc"
+                  data-type="datetime">Giảm giá nhiều nhất</a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
   <!-- HTML data -->
@@ -4464,10 +4585,11 @@
     </ul>
   </div>
   <!-- panel -->
-  <div class="center-block">
+  <div class="pager-box-holder">
     <div class="jplist-panel">
+      <!-- pagination control -->
       <ul
-          class="pagination pull-left jplist-pagination"
+          class="pagination jplist-pagination"
           data-control-type="boot-pagination"
           data-control-name="paging"
           data-control-action="paging"
