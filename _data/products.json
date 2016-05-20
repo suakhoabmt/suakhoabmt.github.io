@@ -35,7 +35,6 @@
   {"group":"Chìa khóa","name":"ALPHA két","remain":50,"price":5500,"type":"key","name-index":"ALPHA ket"},
   {"group":"Ổ khóa","name":"AMEX(loại 1)","remain":1,"price":195000,"type":"lock","name-index":"AMEX(loai 1)"},
   {"group":"Ổ khóa","name":"AMEX(loại 2)","remain":6,"price":150000,"type":"lock","name-index":"AMEX(loai 2)"},
-  {"group":"Phụ kiện đồng hồ","name":"Anh Đạo mượn","remain":0,"price":500000,"type":"other","name-index":"Anh Dao muon"},
   {"group":"Ổ khóa","name":"ANTEHLE 3F tròn","remain":30,"price":10000,"type":"lock","name-index":"ANTEHLE 3F tron"},
   {"group":"Chìa khóa thường dùng","name":"Atila dài ngược","remain":101,"price":6800,"type":"key","name-index":"Atila dai nguoc"},
   {"group":"Chìa khóa thường dùng","name":"Atila dài rãnh ngược","remain":92,"price":6800,"type":"key","name-index":"Atila dai ranh nguoc"},
