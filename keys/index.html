@@ -38,8 +38,7 @@ group: mainmenu
                   href="#"
                   data-path=".product-name"
                   data-order="asc"
-                  data-type="text"
-                  data-default="true">Tên A-Z</a>
+                  data-type="text">Tên A-Z</a>
             </li>
 
             <li role="presentation">
@@ -81,31 +80,10 @@ group: mainmenu
                   role="menuitem"
                   tabindex="-1"
                   href="#"
-                  data-path=".date"
+                  data-path=".product-common"
                   data-order="asc"
-                  data-type="datetime">Mới nhất</a>
-            </li>
-
-            <li role="presentation">
-              <a
-                  role="menuitem"
-                  tabindex="-1"
-                  href="#"
-                  data-path=".date"
-                  data-order="desc"
-                  data-type="datetime">Cũ nhất</a>
-            </li>
-
-            <li role="presentation" class="divider"></li>
-
-            <li role="presentation">
-              <a
-                  role="menuitem"
-                  tabindex="-1"
-                  href="#"
-                  data-path=".date"
-                  data-order="desc"
-                  data-type="datetime">Độ liên quan</a>
+                  data-type="number"
+                  data-default="true">Phổ biến nhất</a>
             </li>
 
             <li role="presentation">
@@ -117,26 +95,16 @@ group: mainmenu
                   data-order="desc"
                   data-type="datetime">Hàng mới nhập</a>
             </li>
-
-            <li role="presentation">
-              <a
-                  role="menuitem"
-                  tabindex="-1"
-                  href="#"
-                  data-path=".date"
-                  data-order="asc"
-                  data-type="datetime">Bán chạy nhất</a>
-            </li>
-
-            <li role="presentation">
-              <a
-                  role="menuitem"
-                  tabindex="-1"
-                  href="#"
-                  data-path=".date"
-                  data-order="desc"
-                  data-type="datetime">Giảm giá nhiều nhất</a>
-            </li>
+            <!--
+                        <li role="presentation">
+                          <a
+                              role="menuitem"
+                              tabindex="-1"
+                              href="#"
+                              data-path=".discount"
+                              data-order="desc"
+                              data-type="number">Giảm giá nhiều nhất</a>
+                        </li>-->
           </ul>
         </div>
       </div>
@@ -153,6 +121,13 @@ group: mainmenu
           <h4 class="product-name">{{ product.name }}</h4>
         </a>
         <span class="product-price">{{ product.price }}</span><span class="product-price-unit">đ</span>
+        {% if product.remain == 'FALSE' %}
+        <img class="product-sold-out" src="http://placehold.it/20x20" alt="Het hang">
+        {% endif %}
+        <div style="display: none">
+          <span class="product-name-index">{{ product.name-index }}</span>
+          <span class="product-common">{{ product.common }}</span>
+        </div>
       </li>
       {% endif %}
       {% endfor %}
