@@ -115,12 +115,14 @@ description: Tìm kiếm sản phẩm trên trang sửa khóa Buôn Ma Thuột
       {% for product in site.data.products %}
       <li class="list-item product">
         <a href="#" title="{{ product.name }}">
-          <img class="product-img" src="http://placehold.it/200x200" alt="{{ product.name }}">
+          <img class="product-img" src="{{ '/images/' | append: product.product-img }}" alt="{{ product.name }}">
           <h4 class="product-name">{{ product.name }}</h4>
         </a>
         <span class="product-price">{{ product.price }}</span><span class="product-price-unit">đ</span>
         {% if product.remain == 'FALSE' %}
-        <img class="product-sold-out" src="http://placehold.it/20x20" alt="Het hang">
+        <span class="product-sold-out-wrapper">
+          <img class="product-sold-out-label" src="/images/suakhoabmt-het-hang.png" alt="Het hang">
+        </span>
         {% endif %}
         <div style="display: none">
           <span class="product-name-index">{{ product.name-index }}</span>

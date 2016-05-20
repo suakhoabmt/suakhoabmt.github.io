@@ -204,6 +204,19 @@ h1, h2, h3, h4 {
   top: -0.5em;
 }
 
+.product-img {
+  width: 200px;
+  height: 200px;
+}
+
+.product-sold-out-wrapper {
+  width: 200px;
+}
+
+.product-sold-out-label {
+  margin: auto;
+}
+
 .clear {
   clear: both;
 }
