@@ -115,19 +115,19 @@ description: Tìm kiếm sản phẩm trên trang sửa khóa Buôn Ma Thuột
       {% for product in site.data.products %}
       <li class="list-item product">
         <a href="#" title="{{ product.name }}">
-          <img class="product-img" src="{{ '/images/' | append: product.product-img }}" alt="{{ product.name }}">
+          <span class="image">
+            <img class="product-img" src="{{ '/images/' | append: product.product-img }}" alt="{{ product.name }}">
+            {% if product.remain == 'FALSE' %}
+            <img class="product-sold-out" src="/images/suakhoabmt-het-hang.png" alt="Het hang">
+            {% endif %}
+          </span>
           <h4 class="product-name">{{ product.name }}</h4>
+          <p class="product-price">{{ product.price }}<span class="product-price-unit">đ</span></p>
+          <span style="display: none">
+            <span class="product-name-index">{{ product.name-index }}</span>
+            <span class="product-common">{{ product.common }}</span>
+          </span>
         </a>
-        <span class="product-price">{{ product.price }}</span><span class="product-price-unit">đ</span>
-        {% if product.remain == 'FALSE' %}
-        <span class="product-sold-out-wrapper">
-          <img class="product-sold-out-label" src="/images/suakhoabmt-het-hang.png" alt="Het hang">
-        </span>
-        {% endif %}
-        <div style="display: none">
-          <span class="product-name-index">{{ product.name-index }}</span>
-          <span class="product-common">{{ product.common }}</span>
-        </div>
       </li>
       {% endfor %}
     </ul>

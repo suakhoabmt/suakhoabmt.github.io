@@ -117,17 +117,19 @@ group: mainmenu
       {% if product.type == 'lock' %}
       <li class="list-item product">
         <a href="#" title="{{ product.name }}">
-          <img class="product-img" src="http://placehold.it/200x200" alt="{{ product.name }}">
+          <span class="image">
+            <img class="product-img" src="{{ '/images/' | append: product.product-img }}" alt="{{ product.name }}">
+            {% if product.remain == 'FALSE' %}
+            <img class="product-sold-out" src="/images/suakhoabmt-het-hang.png" alt="Het hang">
+            {% endif %}
+          </span>
           <h4 class="product-name">{{ product.name }}</h4>
+          <p class="product-price">{{ product.price }}<span class="product-price-unit">đ</span></p>
+          <span style="display: none">
+            <span class="product-name-index">{{ product.name-index }}</span>
+            <span class="product-common">{{ product.common }}</span>
+          </span>
         </a>
-        <span class="product-price">{{ product.price }}</span><span class="product-price-unit">đ</span>
-        {% if product.remain == 'FALSE' %}
-        <img class="product-sold-out-label" src="http://placehold.it/20x20" alt="Het hang">
-        {% endif %}
-        <div style="display: none">
-          <span class="product-name-index">{{ product.name-index }}</span>
-          <span class="product-common">{{ product.common }}</span>
-        </div>
       </li>
       {% endif %}
       {% endfor %}
