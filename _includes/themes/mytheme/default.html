@@ -21,11 +21,10 @@
   <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Optional theme -->
   <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+  <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
   <!-- JPList css -->
   <link href="{{ ASSET_PATH }}/jplist/css/jplist.core.min.css" rel="stylesheet" type="text/css"/>
-  <link href="{{ ASSET_PATH }}/jplist/css/jplist.pagination-bundle.min.css" rel="stylesheet" type="text/css"/>
   <link href="{{ ASSET_PATH }}/jplist/css/jplist.textbox-filter.min.css" rel="stylesheet" type="text/css"/>
-  <link href="{{ ASSET_PATH }}/jplist/css/jplist.bootstrap-demo.min.css" rel="stylesheet" type="text/css"/>
   <!-- Custom styles -->
   <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
@@ -111,11 +110,32 @@
       {{ content }}
     </div>
   </div>
-
 </div>
-
-<div id="footer">
+<footer id="footer">
   <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <p>Tiệm khóa Tiến Phát</p>
+        <p>- Cung cấp dịch vụ sửa khóa</p>
+        <p>- Phân phối khóa, chìa khóa và các vật tư ngành khóa</p>
+        <p>- Tư vấn và triển khai giải pháp khóa an toàn dân dụng, văn phòng công ty</p>
+        <p>- Làm chip điện tử và điều khiển từ xa (remote) khóa ô tô</p>
+        <p>- Làm điều khiển (remote) cửa cuốn</p>
+        <p>- Lắp khóa chống trộm xe máy</p>
+        <p>- Mở và làm chìa khóa két sắt</p>
+      </div>
+      <div class="col-sm-4">
+        <p>Liên hệ:</p>
+        <p>- Dịch vụ: 0905748973</p>
+        <p>- Mua hàng: 01224512545</p>
+        <p>Địa chỉ: 05 Nguyễn Văn Cừ, TP. Buôn Ma Thuột</p>
+      </div>
+      <div class="col-sm-4">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8115.186406642887!2d108.05805945795288!3d12.693609538496057!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x89961b2411afda4e!2zVGnhu4dtIEtow7NhIFRp4bq_biBQaMOhdA!5e0!3m2!1svi!2s!4v1463897004899"
+            width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+    </div>
     <div class="row">
       <div class="col-sm-12">
         <small>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
@@ -128,23 +148,19 @@
       </div>
     </div>
   </div>
-</div>
+</footer>
 
 {% include JB/analytics %}
-
 
 <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
 <!-- Placed at the end of the document so the pages load faster -->
 <!-- jQuery lib -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
 <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
 <!-- JPList js -->
 <script src="{{ ASSET_PATH }}/jplist/js/jplist.core.min.js"></script>
-<script src="{{ ASSET_PATH }}/jplist/js/jplist.pagination-bundle.min.js"></script>
 <script src="{{ ASSET_PATH }}/jplist/js/jplist.textbox-filter.min.js"></script>
 <script src="{{ ASSET_PATH }}/jplist/js/jplist.bootstrap-pagination-bundle.min.js"></script>
-<script src="{{ ASSET_PATH }}/jplist/js/jplist.sort-bundle.min.js"></script>
 <script src="{{ ASSET_PATH }}/jplist/js/jplist.bootstrap-sort-dropdown.min.js"></script>
 
 <script src="{{ ASSET_PATH }}/js/app.js"></script>

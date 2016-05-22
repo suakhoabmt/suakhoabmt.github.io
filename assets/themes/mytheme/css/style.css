@@ -1,4 +1,4 @@
-body {
+html body {
   background: #fff;
 }
 
@@ -7,6 +7,7 @@ h1, h2, h3, h4 {
 }
 
 #footer {
+  line-height: inherit !important;
   padding-top: 1em;
   background-color: #444;
   color: #999;
@@ -77,21 +78,6 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF;
-}
-
-/* Call now button */
-.call-now {
-  text-align: center;
-}
-
-/* map location */
-.location {
-
-}
-
-#map {
-  background-color: #555;
-
 }
 
 /* image */
