@@ -108,7 +108,7 @@ group: mainmenu
       <li class="list-item product">
         <a href="#" title="{{ product.name }}">
           <span class="image">
-            <img class="product-img" src="{{ '/images/products/' | append: product.product-img }}"
+            <img class="product-img" src="{{ '/images/products/' | append: product.name | append: '.jpg'}}"
                  onerror="this.src='/images/suakhoabmt-hinh-anh-minh-hoa.png'" alt="{{ product.name }}">
             {% if product.remain == 'FALSE' %}
             <img class="product-sold-out" src="/images/suakhoabmt-het-hang.png" alt="Het hang">

@@ -42,7 +42,7 @@ var removeDuplicateWhiteSpaces = function (string) {
 };
 
 $('document').ready(function () {
-  var searchQuery = getUrlParameter('search');
+  var searchQuery = getUrlParameter('q');
   if (searchQuery) {
     searchQuery = searchQuery.replace(/\+/g, " ");
     $('#search-box').val(searchQuery);
