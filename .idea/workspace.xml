@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a594a69d-f798-4ca2-b739-447f46be5a6b" name="Default" comment="Add default image.">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NoImageAvailable.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/products.json" afterPath="$PROJECT_DIR$/_data/products.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2015/01/28/cong-nghe-chip-dien-tu-xe-hoi.html" afterPath="$PROJECT_DIR$/_site/2015/01/28/cong-nghe-chip-dien-tu-xe-hoi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2015/04/25/xe-khong-the-khoi-dong.html" afterPath="$PROJECT_DIR$/_site/2015/04/25/xe-khong-the-khoi-dong.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/02/28/mat-het-chia-khoa-o-to.html" afterPath="$PROJECT_DIR$/_site/2016/02/28/mat-het-chia-khoa-o-to.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/03/03/he-thong-chia-khoa-chu-master-key.html" afterPath="$PROJECT_DIR$/_site/2016/03/03/he-thong-chia-khoa-chu-master-key.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/archive.html" afterPath="$PROJECT_DIR$/_site/archive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/cars/index.html" afterPath="$PROJECT_DIR$/_site/cars/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/categories.html" afterPath="$PROJECT_DIR$/_site/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/keys/index.html" afterPath="$PROJECT_DIR$/_site/keys/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/locks/index.html" afterPath="$PROJECT_DIR$/_site/locks/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages.html" afterPath="$PROJECT_DIR$/_site/pages.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/safes/index.html" afterPath="$PROJECT_DIR$/_site/safes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/search/index.html" afterPath="$PROJECT_DIR$/_site/search/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags.html" afterPath="$PROJECT_DIR$/_site/tags.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keys/index.html" afterPath="$PROJECT_DIR$/keys/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locks/index.html" afterPath="$PROJECT_DIR$/locks/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search/index.html" afterPath="$PROJECT_DIR$/search/index.html" />
     </list>
     <ignored path="suakhoabmt.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -659,7 +639,7 @@
       <workItem from="1463763691414" duration="4737000" />
       <workItem from="1463797017191" duration="503000" />
       <workItem from="1463828841655" duration="9732000" />
-      <workItem from="1463891063839" duration="7192000" />
+      <workItem from="1463891063839" duration="7328000" />
     </task>
     <task id="LOCAL-00001" summary="Change style css">
       <created>1463678716637</created>
@@ -686,7 +666,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47695000" />
+    <option name="totallyTimeSpent" value="47831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
