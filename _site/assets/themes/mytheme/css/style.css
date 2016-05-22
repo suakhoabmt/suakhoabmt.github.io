@@ -80,7 +80,7 @@ h1, h2, h3, h4 {
   color: #FFF;
 }
 
-/* image */
+/* carousel image */
 .carousel-inner img {
   width: 100%;
 }
@@ -151,15 +151,17 @@ ul {
   border: 0 !important;
 }
 
-.product.image {
+.image {
+  display: table-cell;
+  vertical-align: middle;
   text-align: center;
   width: 175px;
   height: 175px;
 }
 
 .product-img {
-  width: 175px;
-  height: 175px;
+  max-width: 175px;
+  max-height: 175px;
 }
 
 .product-sold-out {
