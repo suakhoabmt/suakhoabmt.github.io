@@ -1,309 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a594a69d-f798-4ca2-b739-447f46be5a6b" name="Default" comment="Add default image.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/12966079_1676750862576869_1434749041_n.jpg" afterPath="$PROJECT_DIR$/_site/images/products/12966079_1676750862576869_1434749041_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/12966613_1309049709111557_2012433282_n.jpg" afterPath="$PROJECT_DIR$/_site/images/products/12966613_1309049709111557_2012433282_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/12987917_1309100799106448_1655819317_n.jpg" afterPath="$PROJECT_DIR$/_site/images/products/12987917_1309100799106448_1655819317_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/12992214_1309019689114559_2069043100_n.jpg" afterPath="$PROJECT_DIR$/_site/images/products/12992214_1309019689114559_2069043100_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/12992946_1309054949111033_903517538_n.jpg" afterPath="$PROJECT_DIR$/_site/images/products/12992946_1309054949111033_903517538_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/12993005_1309049739111554_376005633_n.jpg" afterPath="$PROJECT_DIR$/_site/images/products/12993005_1309049739111554_376005633_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/13020341_1309050085778186_403320321_n.jpg" afterPath="$PROJECT_DIR$/_site/images/products/13020341_1309050085778186_403320321_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/13022378_1309049725778222_386733066_n.jpg" afterPath="$PROJECT_DIR$/_site/images/products/13022378_1309049725778222_386733066_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/2 tầng bi mương xéo thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/2 tầng bi mương xéo thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/4 khía dài FAYN(SPECIAL).jpg" afterPath="$PROJECT_DIR$/_site/images/products/4 khía dài FAYN(SPECIAL).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/4 khía dài SHILI.jpg" afterPath="$PROJECT_DIR$/_site/images/products/4 khía dài SHILI.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/4 khía nhí.jpg" afterPath="$PROJECT_DIR$/_site/images/products/4 khía nhí.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/4 khía sắt thường.jpg" afterPath="$PROJECT_DIR$/_site/images/products/4 khía sắt thường.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/4 khía sắt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/4 khía sắt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/4 khía xéo.jpg" afterPath="$PROJECT_DIR$/_site/images/products/4 khía xéo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/4 khía đồng.jpg" afterPath="$PROJECT_DIR$/_site/images/products/4 khía đồng.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/5 khía.jpg" afterPath="$PROJECT_DIR$/_site/images/products/5 khía.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/505 lớn ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/505 lớn ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/505 lớn thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/505 lớn thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/505 nhí ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/505 nhí ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/6 khía.jpg" afterPath="$PROJECT_DIR$/_site/images/products/6 khía.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/ABC 60mm chống cắt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/ABC 60mm chống cắt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/ABUS răng ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/ABUS răng ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/ABUS răng thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/ABUS răng thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/ANTEHLE 3F tròn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/ANTEHLE 3F tròn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/AYSWO dài nhỏ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/AYSWO dài nhỏ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/AYSWO(bông lúa).jpg" afterPath="$PROJECT_DIR$/_site/images/products/AYSWO(bông lúa).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/CAT 2 sọc.jpg" afterPath="$PROJECT_DIR$/_site/images/products/CAT 2 sọc.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Chìa Lucky thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Chìa Lucky thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Chấm trơn lớn(Shinico).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Chấm trơn lớn(Shinico).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Crown 6F cc(muỗng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Crown 6F cc(muỗng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Crown 6F(muỗng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Crown 6F(muỗng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Dây Master - 8228EURDPROBLU.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Dây Master - 8228EURDPROBLU.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Dây xe đạp(tròn) - DXDT.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Dây xe đạp(tròn) - DXDT.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Dây xe đạp(vuông) - DXDV.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Dây xe đạp(vuông) - DXDV.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Evergood 6F tròn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Evergood 6F tròn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Evergood vuông 3f.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Evergood vuông 3f.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Ford xi tròn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Ford xi tròn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/HONDA dài ZIN.jpg" afterPath="$PROJECT_DIR$/_site/images/products/HONDA dài ZIN.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/ISUZU A-351 C135.jpg" afterPath="$PROJECT_DIR$/_site/images/products/ISUZU A-351 C135.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/ISUZU C105 tốt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/ISUZU C105 tốt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/ISUZU D-max thường.jpg" afterPath="$PROJECT_DIR$/_site/images/products/ISUZU D-max thường.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/KHÓA đĩa z con.jpg" afterPath="$PROJECT_DIR$/_site/images/products/KHÓA đĩa z con.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/KINBAR 110dba.jpg" afterPath="$PROJECT_DIR$/_site/images/products/KINBAR 110dba.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 50mm - 150EURD.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 50mm - 150EURD.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 50mm - 150EURDLJ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 50mm - 150EURDLJ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 50mm - 2250EURD.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 50mm - 2250EURD.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 60mm - 1160EFGDRF.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 60mm - 1160EFGDRF.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 61mm - 6325W7000.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 61mm - 6325W7000.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 64mm - M830EURDLH.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 64mm - M830EURDLH.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 80mm - 680EURD.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 80mm - 680EURD.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 85mm - 608EURD.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 85mm - 608EURD.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master 90mm - 690EURD.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master 90mm - 690EURD.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master số 57mm - 1175D.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master số 57mm - 1175D.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Master số 57mm - 1178D.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Master số 57mm - 1178D.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa USC 50mm cc(muỗng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa USC 50mm cc(muỗng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa USC 60mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa USC 60mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Việt Hàn 40mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Việt Hàn 40mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Việt Hàn 50mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Việt Hàn 50mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa Việt Hàn 60mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa Việt Hàn 60mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa chụp Master 73mm - 970EURDPF.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa chụp Master 73mm - 970EURDPF.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa chụp YEHA - CYH.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa chụp YEHA - CYH.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa nhung lớn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa nhung lớn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa số Valy(khóa số nhỏ).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa số Valy(khóa số nhỏ).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm FINSON 5892 AC(nâu).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm FINSON 5892 AC(nâu).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm FINSON 5893 NB(trắng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm FINSON 5893 NB(trắng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm FINSON 5907 YB ET (nâu).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm FINSON 5907 YB ET (nâu).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm FINSON 9540 AB(nâu bóng lóa).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm FINSON 9540 AB(nâu bóng lóa).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm VIAIR 200NA - nâu.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tay nắm VIAIR 200NA - nâu.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tủ 3 ngăn xihe.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tủ 3 ngăn xihe.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tủ REAL vuông.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tủ REAL vuông.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tủ XIHE 2F.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tủ XIHE 2F.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Khóa tủ kính XIHE.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Khóa tủ kính XIHE.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Két số.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Két số.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Lucky bông lúa.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Lucky bông lúa.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MAXPRO 40mm(vuông).jpg" afterPath="$PROJECT_DIR$/_site/images/products/MAXPRO 40mm(vuông).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MAXPRO 50mm cc(vuông).jpg" afterPath="$PROJECT_DIR$/_site/images/products/MAXPRO 50mm cc(vuông).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MAXPRO 50mm(muỗng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/MAXPRO 50mm(muỗng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MAXPRO 60mm cc(muỗng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/MAXPRO 60mm cc(muỗng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MAXPRO 60mm cc(vuông).jpg" afterPath="$PROJECT_DIR$/_site/images/products/MAXPRO 60mm cc(vuông).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MAXPRO 60mm(muỗng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/MAXPRO 60mm(muỗng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MAXPRO 60mm(vuông).jpg" afterPath="$PROJECT_DIR$/_site/images/products/MAXPRO 60mm(vuông).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MAZDA xi V.jpg" afterPath="$PROJECT_DIR$/_site/images/products/MAZDA xi V.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MINDY 6F.jpg" afterPath="$PROJECT_DIR$/_site/images/products/MINDY 6F.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MOTTURA.jpg" afterPath="$PROJECT_DIR$/_site/images/products/MOTTURA.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Maslcty 40mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Maslcty 40mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Maslcty 60mm cc.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Maslcty 60mm cc.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Maslcty 60mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Maslcty 60mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Mazda xi tròn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Mazda xi tròn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Mindy 60cc chìa đinh.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Mindy 60cc chìa đinh.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Muỗng 4F.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Muỗng 4F.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/MÁNG XỐI CỤT.jpg" afterPath="$PROJECT_DIR$/_site/images/products/MÁNG XỐI CỤT.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Rarlux 40mm(vuông).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Rarlux 40mm(vuông).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Rarlux 60mm(muỗng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Rarlux 60mm(muỗng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/SERIES OF JIADEBAO LOCKS.jpg" afterPath="$PROJECT_DIR$/_site/images/products/SERIES OF JIADEBAO LOCKS.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/SOLEX 60mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/SOLEX 60mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/SOLEX REAL.jpg" afterPath="$PROJECT_DIR$/_site/images/products/SOLEX REAL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/SOLEX sọc NHÍ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/SOLEX sọc NHÍ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Solex 40mm dài.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Solex 40mm dài.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Số bấm lớn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Số bấm lớn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/TAIWAN bông lúa.jpg" afterPath="$PROJECT_DIR$/_site/images/products/TAIWAN bông lúa.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/TOPLEX 50mm cc.jpg" afterPath="$PROJECT_DIR$/_site/images/products/TOPLEX 50mm cc.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/TOPLEX 50mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/TOPLEX 50mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Tay nắm Maxpro 9570 BN(trắng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Tay nắm Maxpro 9570 BN(trắng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Tay nắm YEHA 9500 SS trắng.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Tay nắm YEHA 9500 SS trắng.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Tay nắm YEHA 9500AC ET nâu.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Tay nắm YEHA 9500AC ET nâu.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc 3F thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc 3F thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc 4F thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc 4F thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc 6F thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc 6F thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc vàng 32mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc vàng 32mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc vàng 38mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc vàng 38mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc vàng 50mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc vàng 50mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc vàng 63mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc vàng 63mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 25mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 25mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 32mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 32mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 38mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 38mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 50mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 50mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 63mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trung Quốc đen 63mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Trơn sọc giữa iii.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Trơn sọc giữa iii.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Tủ kính Vương Niệm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Tủ kính Vương Niệm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/U LOCK.jpg" afterPath="$PROJECT_DIR$/_site/images/products/U LOCK.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 01602 chống cắt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 01602 chống cắt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 10 ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 10 ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 10 thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 10 thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 38mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 38mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 45mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 45mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 52mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 52mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 6 ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 6 ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 6 thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 6 thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 63mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 63mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 66mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 66mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp 8 ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp 8 ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp bấm 52.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp bấm 52.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp bấm 63.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp bấm 63.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng 38mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng 38mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng 45mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng 45mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng 52mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng 52mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng 63mm(0163).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng 63mm(0163).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng bấm 38mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng bấm 38mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng bấm 45mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng bấm 45mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng bấm 63mm(01601).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Việt tiệp đồng bấm 63mm(01601).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Vương Miện 40mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Vương Miện 40mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Vương Miện 50mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Vương Miện 50mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Vương Miện dài 1T2.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Vương Miện dài 1T2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Vương Miện dài 1T5.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Vương Miện dài 1T5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Vương Niệm thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Vương Niệm thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Vương Niệm vuông.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Vương Niệm vuông.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/WEIBO CAMLOCK 3F.jpg" afterPath="$PROJECT_DIR$/_site/images/products/WEIBO CAMLOCK 3F.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/WYN 40 dài.jpg" afterPath="$PROJECT_DIR$/_site/images/products/WYN 40 dài.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/WYN 50 dài.jpg" afterPath="$PROJECT_DIR$/_site/images/products/WYN 50 dài.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Xe hơi xi lớn rãnh thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Xe hơi xi lớn rãnh thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Xoắn Vương Miện.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Xoắn Vương Miện.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Xoắn nhỏ SP.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Xoắn nhỏ SP.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Xoắn từ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Xoắn từ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA dài ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA dài ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA dài thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA dài thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán nhựa)  ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán nhựa)  ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán nhựa)  thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán nhựa)  thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán nhựa) rãnh ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán nhựa) rãnh ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán nhựa) rãnh thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán nhựa) rãnh thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán săt)  ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán săt)  ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán săt)  thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán săt)  thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán sắt) rãnh ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán sắt) rãnh ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán sắt) rãnh thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAMAHA(cán sắt) rãnh thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAN HN lớn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAN HN lớn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAN LC ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAN LC ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YAN LC thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YAN LC thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YETI 60 cc(chìa trơn).jpg" afterPath="$PROJECT_DIR$/_site/images/products/YETI 60 cc(chìa trơn).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YETI 60CC(chìa vuông) tốt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YETI 60CC(chìa vuông) tốt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YETI dài 50mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YETI dài 50mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YETI đồng (chìa TRB).jpg" afterPath="$PROJECT_DIR$/_site/images/products/YETI đồng (chìa TRB).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YQFI 50mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YQFI 50mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/YQFI 60mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/YQFI 60mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Yale dài nhiều tầng.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Yale dài nhiều tầng.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Yan bông nhỏ thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Yan bông nhỏ thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Yan nhỏ Thái(vàng)Yan nhỏ Thái(vàng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Yan nhỏ Thái(vàng)Yan nhỏ Thái(vàng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Yan tròn nhỏ thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Yan tròn nhỏ thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Yan vuông nhỏ thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Yan vuông nhỏ thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Yefi 50mm cc.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Yefi 50mm cc.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Yefi 60mm cc.jpg" afterPath="$PROJECT_DIR$/_site/images/products/Yefi 60mm cc.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/atila dài ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/atila dài ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/buckler 60 mm .jpg" afterPath="$PROJECT_DIR$/_site/images/products/buckler 60 mm .jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/buckler 60 mm cc.jpg" afterPath="$PROJECT_DIR$/_site/images/products/buckler 60 mm cc.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/camry màu.jpg" afterPath="$PROJECT_DIR$/_site/images/products/camry màu.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa 67.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa 67.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa 7 bi dl.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa 7 bi dl.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa 7 bi thường.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa 7 bi thường.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa FAB.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa FAB.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa ITALY tốt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa ITALY tốt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa TO - 53.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa TO - 53.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa YUER 553.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa YUER 553.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa chữ vạn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa chữ vạn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa cửa cuốn AYSWO.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa cửa cuốn AYSWO.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa cửa cuốn keyworld.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa cửa cuốn keyworld.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa kiểu các loại.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa kiểu các loại.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa Đinh lớn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa Đinh lớn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chìa đề WU.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chìa đề WU.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm 10 bi thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm 10 bi thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm 901 ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm 901 ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm Gumei ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm Gumei ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm Gumei thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm Gumei thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm HONGDA ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm HONGDA ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm TRB ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm TRB ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm TRB thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm TRB thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm VIRO lớn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm VIRO lớn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm WINDOW.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm WINDOW.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm abus.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm abus.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm mủ 2 sọc.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm mủ 2 sọc.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm nhỏ ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm nhỏ ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm nhỏ thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm nhỏ thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm trơn nhỏ D126.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm trơn nhỏ D126.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm ty ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm ty ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chấm ty thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chấm ty thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/chữ vương.jpg" afterPath="$PROJECT_DIR$/_site/images/products/chữ vương.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/còng trắng.jpg" afterPath="$PROJECT_DIR$/_site/images/products/còng trắng.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/còng vàng.jpg" afterPath="$PROJECT_DIR$/_site/images/products/còng vàng.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/cửa cuốn xanh.jpg" afterPath="$PROJECT_DIR$/_site/images/products/cửa cuốn xanh.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/cửa gỗ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/cửa gỗ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/dream ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/dream ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/dream thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/dream thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/dây TQ nhỏ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/dây TQ nhỏ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/dây muỗng TQ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/dây muỗng TQ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/dây số nhỏ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/dây số nhỏ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/dây số trung.jpg" afterPath="$PROJECT_DIR$/_site/images/products/dây số trung.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/dây xích TOCHIGIYA 327.jpg" afterPath="$PROJECT_DIR$/_site/images/products/dây xích TOCHIGIYA 327.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/forus 50 muỗng chống cắt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/forus 50 muỗng chống cắt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/forus 50 muỗng.jpg" afterPath="$PROJECT_DIR$/_site/images/products/forus 50 muỗng.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/forus 60mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/forus 60mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/future ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/future ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/future thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/future thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/h&amp;h A-305.jpg" afterPath="$PROJECT_DIR$/_site/images/products/h&amp;h A-305.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/honda rãnh ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/honda rãnh ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/honda rãnh thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/honda rãnh thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa USC 60mm chống cắt(chìa muỗng).jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa USC 60mm chống cắt(chìa muỗng).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa chụp REAL.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa chụp REAL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa số Changhao(SiHong).jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa số Changhao(SiHong).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa tay nắm ZKAMLY.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa tay nắm ZKAMLY.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa tủ SOLEX lớn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa tủ SOLEX lớn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa tủ SOLEX nhỏ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa tủ SOLEX nhỏ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa tủ Việt tiệp nhỏ(tốt)3201.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa tủ Việt tiệp nhỏ(tốt)3201.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa tủ Việt tiệp.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa tủ Việt tiệp.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa tủ ZHONGHAO vuông.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa tủ ZHONGHAO vuông.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa tủ kính Việt tiệp(tốt) 03671.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa tủ kính Việt tiệp(tốt) 03671.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa tủ kính thường Liangdi.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa tủ kính thường Liangdi.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa valy 25mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa valy 25mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa đĩa LEAD.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa đĩa LEAD.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/khóa đồng COPHA 7F.jpg" afterPath="$PROJECT_DIR$/_site/images/products/khóa đồng COPHA 7F.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/muỗng 3f lock.jpg" afterPath="$PROJECT_DIR$/_site/images/products/muỗng 3f lock.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/móc khoÁ INOX.jpg" afterPath="$PROJECT_DIR$/_site/images/products/móc khoÁ INOX.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/nhiều mương xi nhỏ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/nhiều mương xi nhỏ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/nhấn kính HAMMER.jpg" afterPath="$PROJECT_DIR$/_site/images/products/nhấn kính HAMMER.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/novo cũ ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/novo cũ ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/novo cũ thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/novo cũ thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/quả tạ dài thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/quả tạ dài thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/solex mủ lớn.jpg" afterPath="$PROJECT_DIR$/_site/images/products/solex mủ lớn.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/solex mủ nhỏ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/solex mủ nhỏ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/solex xi nhỏ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/solex xi nhỏ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/solex xi trung.jpg" afterPath="$PROJECT_DIR$/_site/images/products/solex xi trung.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/suzuki ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/suzuki ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/suzuki thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/suzuki thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/suzuki xi rãnh ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/suzuki xi rãnh ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/suzuki xi rãnh thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/suzuki xi rãnh thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/sym cũ ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/sym cũ ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/sym cũ thuân.jpg" afterPath="$PROJECT_DIR$/_site/images/products/sym cũ thuân.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/số bấm nhỏ.jpg" afterPath="$PROJECT_DIR$/_site/images/products/số bấm nhỏ.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/số màu lớn GHL.jpg" afterPath="$PROJECT_DIR$/_site/images/products/số màu lớn GHL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/số đồng 5F.jpg" afterPath="$PROJECT_DIR$/_site/images/products/số đồng 5F.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/số đồng 6F.jpg" afterPath="$PROJECT_DIR$/_site/images/products/số đồng 6F.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tiep 8 ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tiep 8 ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/toyota BORLIN - C175 ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/toyota BORLIN - C175 ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/trung quốc 3f ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/trung quốc 3f ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/trung quốc 6f ngươ cj.jpg" afterPath="$PROJECT_DIR$/_site/images/products/trung quốc 6f ngươ cj.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tu IVAN vuông.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tu IVAN vuông.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ 3 ngăn IVAN.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ 3 ngăn IVAN.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ SOLEX - P.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ SOLEX - P.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ VIKINI gương 2 mặt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ VIKINI gương 2 mặt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ cá chìa 7 bi.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ cá chìa 7 bi.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ cá chìa đinh.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ cá chìa đinh.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ cá chìa đũa xi.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ cá chìa đũa xi.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ hòa phát.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ hòa phát.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ nhuyễn ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ nhuyễn ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ nhuyễn thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ nhuyễn thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ nhôm  ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ nhôm  ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủ xi ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủ xi ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/tủnhôm thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/tủnhôm thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/wave ngược.jpg" afterPath="$PROJECT_DIR$/_site/images/products/wave ngược.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/wave thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/wave thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/xoắn trung.jpg" afterPath="$PROJECT_DIR$/_site/images/products/xoắn trung.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/xoắn tốt.jpg" afterPath="$PROJECT_DIR$/_site/images/products/xoắn tốt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/yan 6 bi thuận.jpg" afterPath="$PROJECT_DIR$/_site/images/products/yan 6 bi thuận.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/yan fadex.jpg" afterPath="$PROJECT_DIR$/_site/images/products/yan fadex.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/yan thẳng.jpg" afterPath="$PROJECT_DIR$/_site/images/products/yan thẳng.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/yqfi ngang 80mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/yqfi ngang 80mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/yqfi ngang 90mm.jpg" afterPath="$PROJECT_DIR$/_site/images/products/yqfi ngang 90mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/products/Đèn Pin LED LENSER A2(A2).jpg" afterPath="$PROJECT_DIR$/_site/images/products/Đèn Pin LED LENSER A2(A2).jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/themes/css/style.css" afterPath="$PROJECT_DIR$/_site/assets/themes/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/css/style.css" afterPath="$PROJECT_DIR$/assets/themes/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/mytheme/css/style.css" afterPath="$PROJECT_DIR$/assets/themes/mytheme/css/style.css" />
-    </list>
+    <list default="true" id="a594a69d-f798-4ca2-b739-447f46be5a6b" name="Default" comment="Add default image." />
     <ignored path="suakhoabmt.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -336,7 +34,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/themes/mytheme/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
+            <state relative-caret-position="588">
               <caret line="223" column="1" selection-start-line="223" selection-start-column="1" selection-end-line="223" selection-end-column="1" />
               <folding />
             </state>
@@ -827,6 +525,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suakhoabmt.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suakhoabmt.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suakhoabmt.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suakhoabmt.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -958,7 +688,7 @@
       <workItem from="1463763691414" duration="4737000" />
       <workItem from="1463797017191" duration="503000" />
       <workItem from="1463828841655" duration="9732000" />
-      <workItem from="1463891063839" duration="8096000" />
+      <workItem from="1463891063839" duration="8443000" />
     </task>
     <task id="LOCAL-00001" summary="Change style css">
       <created>1463678716637</created>
@@ -985,11 +715,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48599000" />
+    <option name="totallyTimeSpent" value="48946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19539317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -997,7 +727,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19863014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19863014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1444,7 +1174,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/mytheme/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
+        <state relative-caret-position="588">
           <caret line="223" column="1" selection-start-line="223" selection-start-column="1" selection-end-line="223" selection-end-column="1" />
           <folding />
         </state>
