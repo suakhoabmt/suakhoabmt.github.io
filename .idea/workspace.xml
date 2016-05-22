@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a594a69d-f798-4ca2-b739-447f46be5a6b" name="Default" comment="Add default image." />
+    <list default="true" id="a594a69d-f798-4ca2-b739-447f46be5a6b" name="Default" comment="Add default image.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="suakhoabmt.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -688,7 +690,7 @@
       <workItem from="1463763691414" duration="4737000" />
       <workItem from="1463797017191" duration="503000" />
       <workItem from="1463828841655" duration="9732000" />
-      <workItem from="1463891063839" duration="8443000" />
+      <workItem from="1463891063839" duration="8526000" />
     </task>
     <task id="LOCAL-00001" summary="Change style css">
       <created>1463678716637</created>
@@ -715,7 +717,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48946000" />
+    <option name="totallyTimeSpent" value="49029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
