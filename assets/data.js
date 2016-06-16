@@ -34,9 +34,46 @@ $('document').ready(function () {
     $('#search-box').val(searchQuery);
     searchProduct(searchQuery);
   }*/
-  $.getJSON("/data/autokey.json", function (data) {
+  $.getJSON("/data/autokeys.json", function (data) {
     $.each(data, function (key, value) {
-        $('#result').append("<p>" + data[key].name + "</p>");
+      $('#car-keys').append(
+          "<li class='list-item product'>" +
+              "<a href='#' title='" + data[key].name + "'>" +
+              "<span class='image'>" +
+              "<img class='product-img' src='/images/car-keys/" + data[key].name + ".jpg" + "' onerror='this.src=\"/images/suakhoabmt-hinh-anh-minh-hoa.png\"'>" +
+          "</span>" +
+              "<h4 class='product-name'>" + data[key].name + "</h4>" +
+          "<p class='product-price'>Liên hệ</p>" +
+          "</a>" +
+          "</li>"
+      );
+
+
+
+
+      /*
+       <ul class="list products">
+       {% for product in site.data.products %}
+       <li class="list-item product">
+       <a href="#" title="{{ product.name }}">
+       <span class="image">
+       <img class="product-img" src="{{ '/images/products/' | append: product.name | append: '.jpg'}}"
+       onerror="this.src='/images/suakhoabmt-hinh-anh-minh-hoa.png'" alt="{{ product.name }}">
+       {% if product.remain == 'FALSE' %}
+       <img class="product-sold-out" src="/images/suakhoabmt-het-hang.png" alt="Het hang">
+       {% endif %}
+       </span>
+       <h4 class="product-name">{{ product.name }}</h4>
+       <p class="product-price">{{ product.price }}<span class="product-price-unit">đ</span></p>
+       <span style="display: none">
+       <span class="product-name-index">{{ product.name-index }}</span>
+       <span class="product-common">{{ product.common }}</span>
+       </span>
+       </a>
+       </li>
+       {% endfor %}
+       </ul>
+       */
     });
   });
 });
