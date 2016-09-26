@@ -11,6 +11,7 @@ http://suakhoabmt.github.io/cars/
 http://suakhoabmt.github.io/
 http://suakhoabmt.github.io/pages
 http://suakhoabmt.github.io/rss.xml
+http://suakhoabmt.github.io/san-pham
 http://suakhoabmt.github.io/sitemap.txt
 http://suakhoabmt.github.io/tags
 
